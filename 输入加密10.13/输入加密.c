@@ -6,7 +6,7 @@
 int main()
 {   int i=0;
   printf("请输入密码：");
-char b[6];
+char b[6]={ ' ', ' ' , ' ' , ' ', ' ', ' '};
 
 while(i<6)
 {
